@@ -42,12 +42,142 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 0,
-			"y": -138.88888336994052,
-			"z": 1,
+			"x": 543.3242862510687,
+			"y": 23.327213750030715,
+			"z": 0.31579315864330865,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": 7.669284184491744,
+			"y": 95.58440685124913,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:lxjCUa-dm00AfsQm9lHBq",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 328.8020935058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "sofware engineering"
+												}
+											]
+										},
+										{
+											"type": "orderedList",
+											"attrs": {
+												"dir": "auto",
+												"start": 1,
+												"type": null
+											},
+											"content": [
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "cloud engineering"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															},
+															"content": [
+																{
+																	"type": "text",
+																	"text": "ui/ux engineering"
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "listItem",
+													"attrs": {
+														"dir": "auto"
+													},
+													"content": [
+														{
+															"type": "paragraph",
+															"attrs": {
+																"dir": "auto"
+															}
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a6qzwUIO",
+			"typeName": "shape"
 		},
 		{
 			"x": 557.9947509765625,
@@ -116,6 +246,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 590.3291517715212,
+			"y": 266.5824235489154,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3iY0NzBF1zqfwJ9HCWlfM",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 148.80209350585938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Engineering"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a51YvLfV",
+			"typeName": "shape"
+		},
+		{
 			"x": 356.6666259765625,
 			"y": 406.66665436603427,
 			"rotation": 0,
@@ -149,12 +321,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:FPzY2vjFtIuXiv1r-AJ64",
+			"editingShapeId": "shape:lxjCUa-dm00AfsQm9lHBq",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:FPzY2vjFtIuXiv1r-AJ64"
+				"shape:lxjCUa-dm00AfsQm9lHBq"
 			],
-			"hoveredShapeId": "shape:FPzY2vjFtIuXiv1r-AJ64",
+			"hoveredShapeId": "shape:BSEc_7gfNLYSCPiAbeDfi",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -197,8 +369,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 227.00518798828125,
-			"y": 204.67012574054598,
+			"x": 155.22823167197316,
+			"y": 244.78076074591755,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -285,9 +457,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:color": "light-blue"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -301,8 +471,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 848.3333129882812,
-				"h": 484.9999694824219
+				"w": 632,
+				"h": 317.3333435058594
 			},
 			"insets": [
 				false,
@@ -317,7 +487,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1.8000000715255737,
+			"devicePixelRatio": 1.5,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
