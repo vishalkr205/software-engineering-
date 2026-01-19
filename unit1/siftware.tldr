@@ -50,8 +50,8 @@
 			"typeName": "camera"
 		},
 		{
-			"x": 7.669284184491744,
-			"y": 95.58440685124913,
+			"x": -41.61168975567591,
+			"y": 47.029415872374386,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -65,7 +65,7 @@
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
-				"scale": 1,
+				"scale": 1.2997607065983565,
 				"richText": {
 					"type": "doc",
 					"attrs": {
@@ -321,12 +321,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:lxjCUa-dm00AfsQm9lHBq",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
 				"shape:lxjCUa-dm00AfsQm9lHBq"
 			],
-			"hoveredShapeId": "shape:BSEc_7gfNLYSCPiAbeDfi",
+			"hoveredShapeId": "shape:lxjCUa-dm00AfsQm9lHBq",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -461,7 +461,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "ns-resize",
 				"rotation": 0
 			},
 			"isFocusMode": false,
